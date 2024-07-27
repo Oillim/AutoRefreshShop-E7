@@ -1,0 +1,5 @@
+PyObjC
+pyobjc-framework-Quartz
+pytesseract
+opencv-python
+numpy
